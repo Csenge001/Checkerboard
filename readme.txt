@@ -1,1 +1,1 @@
-Mini canvas project: a green checkerboard with some fancy shades.
+Mini canvas project: a checkerboard with green and yellow shades.
